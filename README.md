@@ -15,6 +15,7 @@
 - 2021.12-2022.07 [마모모(마음을 모두 모아)](https://github.com/2E2I/mamomo-client)
 - 2022.01-2022.12 [QUFA (Data Quality and Fairness) Data Quality 프로젝트 참여](https://gitlab.com/qufa)
 - 2022.11-2023.04 [Karly (멋쟁이 사자처럼 리액트 파이널 프로젝트)](https://github.com/LikeLion-FE-React-Project04/project-repo)    /---/    [배포 주소](https://exquisite-beijinho-97fbd2.netlify.app/)
+- 2023.06-2023.07 [VALONITY (게임 커뮤니티 - 개인 토이 프로젝트)](https://github.com/LikeLion-FE-React-Project04/project-repo)    /---/    [배포 주소](http://valonity-app-env.eba-x2zifydm.ap-northeast-1.elasticbeanstalk.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssw6750)](https://github.com/ssw6750/github-readme-stats)
 <!--
